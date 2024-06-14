@@ -1,0 +1,21 @@
+.copyright-cont{
+    display: flex;
+    /* border: 1px solid black; */
+    justify-content: center;
+    align-items: center;
+    /* height: 200px; */
+    background-color:#1F2937;
+  }
+  .copyright-cont-items{
+    /* border: 1px solid black; */
+    flex: 0 0 50%;
+    display: flex;
+    justify-content: center;
+  }
+  .copyright-cont-items p{
+    padding: 20px;
+    font-family: roboto;
+    font-size: 18px;
+    font-weight: normal;
+    color: white;
+  }
